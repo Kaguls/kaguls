@@ -1,17 +1,14 @@
-## It's late, but I'm trying because I want to develop a game. 👋
+# It's late, but I'm trying because I want to develop a game. 👋
 
-<!--
-**Kaguls/kaguls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [Skill]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [learn]</br>
+<img src="https://img.shields.io/badge/C-512BD4?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=Csharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C language&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal-00599C?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-00599C?style=flat-square&logo=unity&logoColor=white"/> <BR/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaguls&show_icons=true&theme=radical)
