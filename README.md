@@ -1,4 +1,4 @@
-## Hi there 👋
+## It's late, but I'm trying because I want to develop a game. 👋
 
 <!--
 **Kaguls/kaguls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
